@@ -1,0 +1,7 @@
+bg_color = '#282c34'
+ts_color = '#2E818B'
+txt_color = '#00A8CE'
+brd_color = '#3C7DB8'
+tbg_color = '#9C9C9C'
+hd_color = '#BF37D4'
+cl_color = '#455169'
